@@ -8,4 +8,4 @@ User input through a form for guessing.
 Feedback messages for each guess.
 Game ends when the correct number is guessed.
 
-![](image/guessinggame.png)
+![](image/guessinggame.PNG)
